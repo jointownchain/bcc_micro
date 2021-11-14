@@ -1,4 +1,4 @@
-package bcc_micro
+package micro
 
 import (
 	"context"
